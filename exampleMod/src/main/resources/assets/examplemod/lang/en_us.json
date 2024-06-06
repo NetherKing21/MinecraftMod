@@ -1,3 +1,11 @@
 {
-  "item.examplemod.sapphire" : "Sapphire"
+  "item.examplemod.sapphire" : "Sapphire",
+  "item.examplemod.raw_sapphire" : "Raw Sapphire",
+  "item.examplemod.flaming_carrot" : "Flaming Carrot",
+
+  "block.examplemod.sapphire_block": "Sapphire Block",
+  "block.examplemod.raw_sapphire_block": "Raw Sapphire Block",
+  "block.examplemod.thicc_slime": "Thicc Slime",
+
+  "creatvietab.example_tab" : "Example Tab"
 }

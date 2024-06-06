@@ -8,7 +8,7 @@ This section should be filled on the first Monday of the Sprint and submitted
 
 ### Section 1.1 - Module Selection
 
-1. What Sprint is this for (1-5)?
+1. What Sprint is this for (1-5)? 3
 
 2. Select the Module (with a single X) that you will do this Sprint:
 
@@ -80,14 +80,17 @@ Record all CSE 310 work that you do on your individual module or the team projec
 
 Note that `IM` stands for Individual Module and `TP` stands for Team Project.  
 
-|Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
-|----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|Date      |Start Time|IM or TP|Description                                  |Hours:Minutes|
+|----------|----------|--------|---------------------------------------------|-------------|
+| 5/29/24  |  10:30   | IM     | Initial planning                            | 1:00        |
+| 5/31/24  |  09:00   | IM     | IDE and initial set up                      | 1:00        |
+| 5/31/24  |  11:30   | IM     | Added first items (following tutorial)      | 1:00        |
+| 6/1/24   |  21:00   | IM     | Added my own item                           | 1:00        |
+| 6/3/24   |  09:00   | TP     | Failing with request-html again             | 1:00        |
+| 6/5/24   |  09:00   | TP     | Got Selenium to work and saved data to txt  | 1:00        |
+| 6/6/24   |  09:00   | IM     | Added blocks with tutorial and Documentation| 1:00        |
+| 6/6/24   |  10:15   | IM     | Added my own block                          | 1:00        |
+|          |          |        |                                             |             |
 
 _Note: Add more rows as needed._
 
