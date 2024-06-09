@@ -90,7 +90,12 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 | 6/5/24   |  09:00   | TP     | Got Selenium to work and saved data to txt  | 1:00        |
 | 6/6/24   |  09:00   | IM     | Added blocks with tutorial and Documentation| 1:00        |
 | 6/6/24   |  10:15   | IM     | Added my own block                          | 1:00        |
+| 6/7/24   |  9:30    | IM     | Added Recipes                               | 0:30        |
+| 6/8/24   |  8:45    | TP     | Gathered data from courses                  | 1:00        |
+| 6/8/24   |  18:50   | IM     | Documentation and recording video           |             |
 |          |          |        |                                             |             |
+|          |          |        |                                             |             |
+
 
 _Note: Add more rows as needed._
 
