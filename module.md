@@ -92,8 +92,8 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 | 6/6/24   |  10:15   | IM     | Added my own block                          | 1:00        |
 | 6/7/24   |  9:30    | IM     | Added Recipes                               | 0:30        |
 | 6/8/24   |  8:45    | TP     | Gathered data from courses                  | 1:00        |
-| 6/8/24   |  18:50   | IM     | Documentation and recording video           |             |
-|          |          |        |                                             |             |
+| 6/8/24   |  19:00   | TP     | Cleaned data                                | 1:00        |
+| 6/8/24   |  20:00   | IM     | Documentation and recording video           | 1:00        |
 |          |          |        |                                             |             |
 
 
@@ -104,29 +104,32 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/NetherKing21/MinecraftMod
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/tvoRb5P3J8w
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     | yes    |
+|Did you complete all the unique requirements for the module?| yes    |
+|Did you write at least 100 lines of code?                   | yes    |
+|Did you fully complete the readme.md file?                  | yes    |
+|Did you put the readme.md file in GitHub in the top folder? | yes    |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+I added block properties to the thicc slime block and now it slows you down when you walk on it, similar to soul sand
 
-5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it. 
+No
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module| 10:30             |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+For this sprint I focused on something that I knew I would enjoy. Having an interest in what you are working on helps motivation. I was also able to work on it earlier in the week and that helped to alleviate the stress. Things that did not work out was that progress was slower than I thought. When making a mod you have to add everything concerning the different items/blocks and there were many things that I didn't take into account.
 
