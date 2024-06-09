@@ -131,5 +131,5 @@ No
 |Individual Module| 10:30             |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
-For this sprint I focused on something that I knew I would enjoy. Having an interest in what you are working on helps motivation. I was also able to work on it earlier in the week and that helped to alleviate the stress. Things that did not work out was that progress was slower than I thought. When making a mod you have to add everything concerning the different items/blocks and there were many things that I didn't take into account.
+For this sprint I focused on something that I knew I would enjoy. Having an interest in what you are working on helps motivation. I was also able to work on it earlier in the week and that helped to alleviate the stress. Things that did not work out was that progress was slower than I thought. When making a mod you have to add everything concerning the different items/blocks and there were many things that I didn't take into account.kk
 
