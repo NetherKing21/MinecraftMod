@@ -18,12 +18,22 @@ public class ModCreativeModTabs {
     public static final RegistryObject<CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("example_tab", () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.FLAMING_CARROT.get()))
             .title(Component.translatable("creatvietab.example_tab"))
             .displayItems((itemDisplayParameters, output) -> {
+                //Tutorial items
                 output.accept(ModItems.SAPPHIRE.get());
                 output.accept(ModItems.RAW_SAPPHIRE.get());
+
+                //My items
                 output.accept(ModItems.FLAMING_CARROT.get());
 
+                //Tutorial blocks
                 output.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                 output.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
+                output.accept(ModBlocks.SAPPHIRE_ORE.get());
+                output.accept(ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
+                output.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
+                output.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
+
+                //My blocks
                 output.accept(ModBlocks.THICC_SLIME.get());
             })
             .build());
