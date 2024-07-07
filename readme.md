@@ -37,6 +37,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] Add loot tables for blocks
-* [ ] Add sapphire ore and ore generation 
+* [x] Add loot tables for blocks
+* [-] Add sapphire ore and ore generation (still need to add ore generation)
 * [ ] Add a mob
